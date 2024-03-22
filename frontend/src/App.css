@@ -1,0 +1,28 @@
+.my-border {
+  border: 2px solid black;
+  border-radius: 6px;
+}
+
+.mr-2 {
+  margin-right: 2px;
+}
+
+.m-top {
+  margin-top: 20px;
+}
+
+.fd-c {
+  flex-direction: column;
+}
+
+.m-top-80 {
+  margin-top: 80px;
+}
+
+.data-w {
+  width: 100%;
+}
+
+.f-s {
+  font-size: medium;
+}
